@@ -7,4 +7,7 @@ public class User
 	public int age;
 
 	public User(){}
+
+	public User(String name)
+	{this.name = name；}
 }
