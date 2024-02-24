@@ -5,4 +5,6 @@ public class User
 	public boolean gender;
 
 	public int age;
+
+	public User(){}
 }
